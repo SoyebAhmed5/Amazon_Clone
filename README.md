@@ -1,5 +1,7 @@
 <pre>📌 Project Overview:
-This project is a static replica of Amazon's homepage built using HTML and CSS only. The goal was to practice frontend development skills by recreating Amazon's layout, design elements, and responsiveness without using JavaScript or any frameworks.
+This project is a static replica of Amazon's homepage built using HTML and CSS only. 
+The goal was to practice frontend development skills by recreating Amazon's layout,
+ design elements, and responsiveness without using JavaScript or any frameworks.
 
 💡 Features:
 ✅ Responsive header with Amazon’s logo, search bar, and navigation menu.
